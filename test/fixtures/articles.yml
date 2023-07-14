@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyString
+  when_went: 2023-07-13 20:59:20
+  aventure: one
+
+two:
+  title: MyString
+  description: MyString
+  when_went: 2023-07-13 20:59:20
+  aventure: two
